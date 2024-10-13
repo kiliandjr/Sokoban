@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1728849901 source:c:\users\utilisateur\desktop\coda\première année\c\sokoban\main.c
-	"fonction.h"
-
-1728837781 c:\users\utilisateur\desktop\coda\première année\c\sokoban\fonction.h
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-
